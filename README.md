@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 28.10.2022: 40Ca-1H__XAB.trans.bz2 updated: spurious transitions to an artificial D states are fuly removed. 
 - 29.09.2022: .def files of H2S and SO2 are updated to make consistent with their .states files.
 - 26.09.2022: Line lists for isotopologues of Si-N (SiNfull) are added. 
 - 26.09.2022: A new LaO line list by Bernath, P. F., Dodangodage, R., Liévin, J., "S-type Stars: LaO Line List for the B2Σ+–X2Σ+Band System", The Astrophysical Journal 933, 99-105 (2022).
