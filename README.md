@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 16.11.2022: 31P-1H__LaTY line list: broken link was corrected. 
 - 28.10.2022: 40Ca-1H__XAB.trans.bz2 updated: spurious transitions to an artificial D states are fuly removed. 
 - 29.09.2022: .def files of H2S and SO2 are updated to make consistent with their .states files.
 - 26.09.2022: Line lists for isotopologues of Si-N (SiNfull) are added. 
