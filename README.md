@@ -2,6 +2,8 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 01.01.2022: The MolLLIST line lists for 27Al37Cl and 27Al35Cl are renamed to MoLLIST-AlCl in order to break degeneracy with other MoLLIST line lists. 
+- 01.01.2023: A new line list YNAT for AlCl is added for two isotopologues 27Al37Cl and 27Al35Cl 
 - 16.11.2022: 31P-1H__LaTY line list: broken link was corrected. 
 - 28.10.2022: 40Ca-1H__XAB.trans.bz2 updated: spurious transitions to an artificial D states are fuly removed. 
 - 29.09.2022: .def files of H2S and SO2 are updated to make consistent with their .states files.
