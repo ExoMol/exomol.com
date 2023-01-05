@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 05.05.2023: Atomic Opacities added for Na and K. 
 - 01.01.2022: The MolLLIST line lists for 27Al37Cl and 27Al35Cl are renamed to MoLLIST-AlCl in order to break degeneracy with other MoLLIST line lists. 
 - 01.01.2023: A new line list YNAT for AlCl is added for two isotopologues 27Al37Cl and 27Al35Cl 
 - 16.11.2022: 31P-1H__LaTY line list: broken link was corrected. 
