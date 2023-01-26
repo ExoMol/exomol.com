@@ -2,6 +2,10 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 24.01.2023: new D2H+ MiZo line list has been created. 
+- 24.01.2023: new D3+ MiZo line list has been created. 
+- 23.01.2023: H2D+ SP line list: states file has been updated with the MARVEL energies. 
+- 23.01.2023: H3+ MiZATeP line list: States file has been marvelised. 
 - 05.01.2023: A new ZrO line list (B-X band) by Sorensen and Bernath, The Astrophysical Journal 923, 234 (2021).
 - 05.01.2023: Atomic Opacities added for Na and K. 
 - 01.01.2022: The MolLLIST line lists for 27Al37Cl and 27Al35Cl are renamed to MoLLIST-AlCl in order to break degeneracy with other MoLLIST line lists. 
