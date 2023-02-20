@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 20.02.2023: 40Ca-16O__VBATHY.states file updated: two coulmns were added, a column with pure calculated energies and a column with labels Ca and Ma, indicating which calculated (Ca) energies were substituted by experimental ones (Ma).
 - 24.01.2023: new D2H+ MiZo line list has been created. 
 - 24.01.2023: new D3+ MiZo line list has been created. 
 - 23.01.2023: H2D+ SP line list: states file has been updated with the MARVEL energies. 
