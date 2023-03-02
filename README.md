@@ -23,3 +23,6 @@ exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 - 10.08.2022: 28Si-14N__SiNfull line list is added. 
 - 05.08.2022: The 40Ca-16O-1H__OYT6 line list is added. 
 
+
+
+
