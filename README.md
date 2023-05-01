@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 01.05.2023: The CaOH line list is temporally unavailable due to some issues with the Einstein coefficients of the X-X band. 
 - 20.02.2023: 40Ca-16O__VBATHY.states file updated: two coulmns were added, a column with pure calculated energies and a column with labels Ca and Ma, indicating which calculated (Ca) energies were substituted by experimental ones (Ma).
 - 24.01.2023: new D2H+ MiZo line list has been created. 
 - 24.01.2023: new D3+ MiZo line list has been created. 
