@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 29.06.2023: Cross-sections app for NaH has been activated. 
 - 21.06.2023: The format of the POKAZATEL H2O-16 was updated: the original energies were added, lables "-2" changed to "NaN", "m" and "e" to "Ma" and "Ca", respectively.
 - 23.05.2023: The CaoH line list is available again. The .trans data for X-X transitions (Einstein A coefficients) have been recomputed and the cross sections have been regenerated. 
 - 01.05.2023: The CaOH line list is temporally unavailable due to some issues with the Einstein coefficients of the X-X band. 
