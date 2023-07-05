@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 4.07.2023: H2CO AYTY .def file was upated: the description of the QN columns was corrected
 - 3.07.2023: SO2 line list MARVELised: calculated energies have been replaced with experimental ones plus uncertanties 
 - 29.06.2023: Cross-sections app for NaH has been activated. 
 - 21.06.2023: The format of the POKAZATEL H2O-16 was updated: the original energies were added, lables "-2" changed to "NaN", "m" and "e" to "Ma" and "Ca", respectively.
