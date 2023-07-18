@@ -2,6 +2,8 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 18.07.2023: ZrO line list ZorrO with isotopologues by Perri et al. has been uploaded, with cross sections
+- 16.07.2023 CH+ line list PYT has been provided, for 12C and 13C. 
 - 12.07.2023: CaOH opacities were added.
 - 12.07.2023: LiOH line was added together with cross sections and opacities. The paper is to be submitted.
 - 4.07.2023: H2CO AYTY .def file was upated: the description of the QN columns was corrected
