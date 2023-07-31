@@ -2,6 +2,9 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 31.07.2023: 14N2__WCCRMT.cp was added from J Phys Chem Ref Data 52, 023101 (2023)
+- 31.07.2023: 14N2__WCCRMT.pf was updated from J Phys Chem Ref Data 52, 023101 (2023), https://doi.org/10.1063/5.0137083
+- 22.07.2023: 26Al-1H__AlHambra.states corrected: four states had MARVEL energies misplaced. 
 - 18.07.2023: ZrO line list ZorrO with isotopologues by Perri et al. has been uploaded, with cross sections
 - 16.07.2023 CH+ line list PYT has been provided, for 12C and 13C. 
 - 12.07.2023: CaOH opacities were added.
