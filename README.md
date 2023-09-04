@@ -2,6 +2,8 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 4.09.2023: HITRAN-HBr Line list is added for 1H-79Br and opacity tables for a natural abundance combination of two main isotopoligues. 
+- 4.09.2023: Opacities for HF are added to the Coxon-Hajig line list.
 - 26.08.2023: 1H2__RACPPK.trans: the Einstein coefficients were updated to the correct data from the original publication. The previos version used an effective Einstein coefficient for a level as a totoal emission.  
 - 31.07.2023: 14N2__WCCRMT.cp was added from J Phys Chem Ref Data 52, 023101 (2023)
 - 31.07.2023: 14N2__WCCRMT.pf was updated from J Phys Chem Ref Data 52, 023101 (2023), https://doi.org/10.1063/5.0137083
