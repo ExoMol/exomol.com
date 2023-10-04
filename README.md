@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 04.10.2023: The CH3Cl OYT TauRex opacity tables have been recomputed, which were reported to be corupted. 
 - 23.09.2023: The LaO line list BND by Bernath et al. has been updated by including the A-X band from the recent publication by Bernath et al. (2023). 
 - 19.09.2023: a few MARVELised dupplicates from 1H2-18O__HotWat78.states and 1H2-17O__HotWat78.states were removed by re-MARVELising the corresponding energies.  
 - 5.09.2023: 1H2__ARLR electronic line list for H2 is added, built from an H2 line list by Abgrall et al., Can. J. Phys., 72, (1994) 856-865.
