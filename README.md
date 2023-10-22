@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 23.10.2023: A bug in the 1H35Cl cross sections app was fixed. The cross sectons should be working now. 
 - 08.10.2023: H2S DVR3D model files for AYT2 line list were added. 
 - 04.10.2023: The CH3Cl OYT TauRex opacity tables have been recomputed, which were reported to be corupted. 
 - 23.09.2023: The LaO line list BND by Bernath et al. has been updated by including the A-X band from the recent publication by Bernath et al. (2023). 
