@@ -2,6 +2,11 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 13.01.2024: A new line list for CH4 has been uploaded (MM).
+- 01.01.2024: A new line list AloHa for AlH has been added. 
+- 01.01.2024: A new line list BRYTS for YO has been added.
+- 01.01.2024: A new line list PT for CH+ has been added.
+- 01.01.2024: Line broadening parameters for lots of fifferent species have been added.   
 - 23.10.2023: A bug in the 1H35Cl cross sections app was fixed. The cross sectons should be working now. 
 - 08.10.2023: H2S DVR3D model files for AYT2 line list were added. 
 - 04.10.2023: The CH3Cl OYT TauRex opacity tables have been recomputed, which were reported to be corupted. 
