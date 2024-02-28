@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 28.02.2024: New linelist for NH kNigHt is added for four isotopologues.  
 - 11.02.2024: 1H-12C-14N__Harris.states, lifetimes added. 
 - 13.01.2024: A new line list for CH4 has been uploaded (MM).
 - 01.01.2024: A new line list AloHa for AlH has been added. 
