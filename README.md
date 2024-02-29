@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 29.02.2024: The line list MoLLIST is renamed to MoLLIST-NH to break the degeneracy with other MoLLIST line lists. 
 - 28.02.2024: New linelist for NH kNigHt is added for four isotopologues.  
 - 11.02.2024: 1H-12C-14N__Harris.states, lifetimes added. 
 - 13.01.2024: A new line list for CH4 has been uploaded (MM).
