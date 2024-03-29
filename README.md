@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 28.03.2024: 28Si-16O__SiOUVenIR opacities are now available for the SiO line list of the main isotopologue. 
 - 29.02.2024: The line list MoLLIST is renamed to MoLLIST-NH to break the degeneracy with other MoLLIST line lists. 
 - 28.02.2024: New linelist for NH kNigHt is added for four isotopologues.  
 - 11.02.2024: 1H-12C-14N__Harris.states, lifetimes added. 
