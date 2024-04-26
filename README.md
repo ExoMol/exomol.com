@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 26.04.2024: HBO line lists (1H-10B-16O and 1H-11B-16O) LQL by Li, Qin, Liu are now available.
 - 15.04.2024: 32S-16O__SOLIS opacities are now available for the SO line list of the main isotopologue.
 - 7.04.2024: A new hot line list OYT8 for OCS is added together with opacities. 
 - 28.03.2024: 28Si-16O__SiOUVenIR opacities are now available for the SiO line list of the main isotopologue. 
