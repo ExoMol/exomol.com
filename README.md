@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 27.04.2024: 24Mg-18O line list LiTY has been replaced with the correct data. The previous version was found to be wrong (a copy of 24Mg-17O).
 - 26.04.2024: HBO line lists (1H-10B-16O and 1H-11B-16O) LQL by Li, Qin, Liu are now available.
 - 15.04.2024: 32S-16O__SOLIS opacities are now available for the SO line list of the main isotopologue.
 - 7.04.2024: A new hot line list OYT8 for OCS is added together with opacities. 
