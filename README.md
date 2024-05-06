@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 05.05.2024: Preliminary line list for PN PaiN is now available at exomol. The manuscript is under review. 
 - 01.05.2024: Opacitis of the XAB line list for MgH and CaH are provided: three isotopologues of MgH as well as compbined opacity assuming solar abundance. 
 - 27.04.2024: 24Mg-18O line list LiTY has been replaced with the correct data. The previous version was found to be wrong (a copy of 24Mg-17O).
 - 26.04.2024: HBO line lists (1H-10B-16O and 1H-11B-16O) LQL by Li, Qin, Liu are now available.
