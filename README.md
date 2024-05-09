@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 09.05.2024: The Toto TiO line lists have been updated to the recently QuadHybrid-MARVELised versions of the states files with the .trans files cleaned by removing negative frequencies. The paper describing the update is under review. 
 - 05.05.2024: Preliminary line list for PN PaiN is now available at exomol. The manuscript is under review. 
 - 01.05.2024: Opacitis of the XAB line list for MgH and CaH are provided: three isotopologues of MgH as well as compbined opacity assuming solar abundance. 
 - 27.04.2024: 24Mg-18O line list LiTY has been replaced with the correct data. The previous version was found to be wrong (a copy of 24Mg-17O).
