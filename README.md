@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 04.05.2024: The N2 line list WCCRMT has been extended to include the C-B system recently constructed by Jans (2024).
 - 01.07.2024: Broken links on the HyVO webpage to 51V-16O__HyVO__09000-09500.trans.bz2 and 51V-16O__HyVO__38000-38500.trans.bz2 have been fixed. 
 - 20.06.2024: TiO opacities of the ToTo line list have been generated for all the minor isotopologues and updated for the main one.
 - 09.05.2024: The Toto TiO line lists have been updated to the recently QuadHybrid-MARVELised versions of the states files with the .trans files cleaned by removing negative frequencies. The paper describing the update is under review. 
