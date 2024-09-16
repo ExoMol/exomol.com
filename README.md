@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 16.09.2024: 28Si-1H__SiGHTLY.states file updated. The end of the file was corrupted and is now replaced.
 - 18.08.2024: Spectroscopic models for PH3, SO3 and H2O2 were added (TROVE input files).
 - 08.08.2024: MoLLIST line lists for 40Ca35Cl and 40Ca37Cl frm Lavy and Bernath (2024).
 - 24.7.2024:  Lots of line broadening paramters for air generated using ML (Guest et al. 2024).
