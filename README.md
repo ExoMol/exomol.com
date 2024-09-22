@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 21.09.2024: Broken link to 51V-16O__HyVO__21000-21500.trans.bz2 has been repared and this file should be accesible now.
 - 16.09.2024: 28Si-1H__SiGHTLY.states file updated. The end of the file was corrupted and is now replaced.
 - 18.08.2024: Spectroscopic models for PH3, SO3 and H2O2 were added (TROVE input files).
 - 08.08.2024: MoLLIST line lists for 40Ca35Cl and 40Ca37Cl frm Lavy and Bernath (2024).
