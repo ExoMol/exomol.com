@@ -7,7 +7,7 @@ exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 - 21.09.2024: Broken link to 51V-16O__HyVO__21000-21500.trans.bz2 has been repared and this file should be accesible now.
 - 16.09.2024: 28Si-1H__SiGHTLY.states file updated. The end of the file was corrupted and is now replaced.
 - 18.08.2024: Spectroscopic models for PH3, SO3 and H2O2 were added (TROVE input files).
-- 08.08.2024: MoLLIST line lists for 40Ca35Cl and 40Ca37Cl frm Lavy and Bernath (2024).
+- 08.08.2024: MoLLIST line lists for 40Ca35Cl and 40Ca37Cl from Lavy and Bernath (2024).
 - 24.7.2024:  Lots of line broadening paramters for air generated using ML (Guest et al. 2024).
 - 04.05.2024: The N2 line list WCCRMT has been extended to include the C-B system recently constructed by Jans (2024).
 - 01.07.2024: Broken links on the HyVO webpage to 51V-16O__HyVO__09000-09500.trans.bz2 and 51V-16O__HyVO__38000-38500.trans.bz2 have been fixed. 
