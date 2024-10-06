@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 06.09.2024: Prelimenary IR line lists BYOT for NiH have been uploaded to ExoMol. 
 - 27.09.2024: New N2O ExoMol linelists TYM (4 isotopologues) are made available
 - 26.09.2024: New NH3-15 ExoMol linelists CoYuTe-15 is  made available
 - 21.09.2024: Broken link to 51V-16O__HyVO__21000-21500.trans.bz2 has been repared and this file should be accesible now.
