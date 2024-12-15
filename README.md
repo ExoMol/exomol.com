@@ -2,6 +2,9 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 15.12.2024: 58NiH partition function was too small and was updated to a correct one 
+- 15.12.2024: ScO line list A-X is added from Bernath and Co
+- 14.12.2024: Experimental Photo-dissociation cross-sections of C2H2 photo-FPBVVTFGSJOE by Fleury et al. (2024)/
 - 06.09.2024: Prelimenary IR line lists BYOT for NiH have been uploaded to ExoMol. 
 - 27.09.2024: New N2O ExoMol linelists TYM (4 isotopologues) are made available
 - 26.09.2024: New NH3-15 ExoMol linelists CoYuTe-15 is  made available
