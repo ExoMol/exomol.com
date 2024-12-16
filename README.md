@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 15.12.2024: 14N15N16O TYM line list has been updated. The initial line list was incorrect. 
 - 15.12.2024: 58NiH partition function was too small and was updated to a correct one 
 - 15.12.2024: ScO line list A-X is added from Bernath and Co
 - 14.12.2024: Experimental Photo-dissociation cross-sections of C2H2 photo-FPBVVTFGSJOE by Fleury et al. (2024)/
