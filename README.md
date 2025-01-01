@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 01.01.2024: CO2 self-broadening n=1 values have been updated to Devi (2007).  
 - 26.12.2024: C3: line broadening (semi-classical) have been added for multiple broadeners 
 - 22.12.2024: OCS line list: .trans files have been updated by removing duplicates
 - 15.12.2024: 14N15N16O TYM line list has been updated. The initial line list was incorrect. 
