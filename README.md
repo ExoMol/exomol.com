@@ -2,6 +2,9 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 19.04.2025: ExoMol P=0 cross sections for CN have been replaced with the most recent set covering ABX bands (<59000 cm-1)
+- 19.04.2025: ExoMol P=0 cross sections for CaCl-35 have been added
+- 19.04.2025: ExoMol P=0 cross sections for YO have been added
 - 19.04.2025: Opacities for CaF-40 (visible bands) added. 
 - 27.03.2025: Cross sections for OCS have been added 
 - 24.01.2025: CaF MoLLIST line list by Bernath's group has been added 
