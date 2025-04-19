@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 19.04.2025: Opacities for CaF-40 (visible bands) added. 
 - 27.03.2025: Cross sections for OCS have been added 
 - 24.01.2025: CaF MoLLIST line list by Bernath's group has been added 
 - 01.01.2024: CO2 self-broadening n=1 values have been updated to Devi (2007).  
