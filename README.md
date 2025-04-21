@@ -2,6 +2,8 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 21.04.2025: Opacities for CaCl-37 (visible bands) added. 
+- 21.04.2025: Opacities for CaCl-35 (visible bands) added. 
 - 19.04.2025: ExoMol P=0 cross sections for OH (MYTHOS) have been added
 - 19.04.2025: ExoMol P=0 cross sections for CH+ have been added
 - 19.04.2025: ExoMol P=0 cross sections for CN have been replaced with the most recent set covering ABX bands (<59000 cm-1)
