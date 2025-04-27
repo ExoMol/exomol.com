@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 27.04.2025: ExoMol P=0 cross sections for VO (HyVO) have been added
 - 21.04.2025: Opacities for CaCl-37 (visible bands) added. 
 - 21.04.2025: Opacities for CaCl-35 (visible bands) added. 
 - 19.04.2025: ExoMol P=0 cross sections for OH (MYTHOS) have been added
