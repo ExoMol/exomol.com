@@ -93,4 +93,65 @@ exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 
 
+## Opacities missing 
+--------
+|Molecule | 
+--------
+| LaO  | 
+| H2CS |
+
+## Line broadening parameters are missing 
+
+------------------------
+| Molecule | Air | All | 
+------------------------
+|  NiH
+| FeH
+| CH
+CrH
+HF
+HBr
+YO
+NaO
+LaO
+ZrO
+ScO
+NO
+SO
+O2
+CH+
+H3O+
+H3+
+H3H+
+H2+
+C2
+AlF
+N2
+SiH
+CaCl
+H2O
+CO2
+SO2
+HCN
+H2CS
+H2CO
+p2H2
+PH3
+C2H2
+C2H4
+N2O
+H2S
+OCS
+SO3
+LiOH
+HBO
+CH4
+NH3
+HNO3
+H2O2
+CH3F
+CH3Cl
+
+
+
 
