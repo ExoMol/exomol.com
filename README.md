@@ -95,20 +95,20 @@ exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 
 ## Opacities missing 
---------
-|Molecule | 
---------
-| LaO  | 
-| H2CS |
+
+ Molecule | 
+ ---------|
+  LaO     |
+
 
 ## Line broadening parameters are missing 
 
-------------------------
-| Molecule | Air | All | 
-------------------------
-|  NiH
-| FeH
-| CH
+
+ Molecule | Air | All 
+----------|-----|-----
+  NiH 
+ FeH
+ CH
 CrH
 HF
 HBr
