@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 04.05.2025: ExoMolOP opacities of H2CS have been added. They were produced using the MOTY line list. 
 - 27.04.2025: ExoMol P=0 cross sections for VO (HyVO) have been added
 - 21.04.2025: Opacities for CaCl-37 (visible bands) added. 
 - 21.04.2025: Opacities for CaCl-35 (visible bands) added. 
