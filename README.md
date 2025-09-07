@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 07.09.2025: ExoMolOP opacities of CaOH were updated. The previous version were broken in IR with a section 6000-8000 cm-1 missing. 
 - 04.05.2025: ExoMolOP opacities of H2CS have been added. They were produced using the MOTY line list. 
 - 27.04.2025: ExoMol P=0 cross sections for VO (HyVO) have been added
 - 21.04.2025: Opacities for CaCl-37 (visible bands) added. 
