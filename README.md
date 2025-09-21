@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 21.09.2025: 14N-15N-16O__TYM__17000-18000.trans.bz2 file was missing. It is now available on exomol.com. 
 - 14.09.2025: 6-7Li-16O-1H__OYT7 ExoMolOP opacitites were regenerated and updated. The previosu version did not include the minor exotopologue - as it turned out.
 - 12.09.2025: Provisional line lists Dozen for isotopologues of CO2 have been generated and uploaded. The manuscript is been submitted to MNRAS. Theye should be treated with caution.
 - 07.09.2025: ExoMolOP opacities of CaOH were updated. The previous version were broken in IR with a section 6000-8000 cm-1 missing. 
