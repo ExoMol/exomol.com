@@ -2,6 +2,8 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 12.10.2025: Two combined opacity datasets for CH3Cl have been uploaded, combining the 35th and 37th isotopologues at the natural abundance. The the OYT line list for 35CH3Cl. 
+- 12.10.2025: The petitRADTRANS opacity file for CH3Cl (OYT) has been updated 12C-1H3-35Cl__OYT.R1000_0.3-50mu.ktable.petitRADTRANS.h5. The previous version was broken. 
 - 21.09.2025: 14N-15N-16O__TYM__17000-18000.trans.bz2 file was missing. It is now available on exomol.com. 
 - 14.09.2025: 6-7Li-16O-1H__OYT7 ExoMolOP opacitites were regenerated and updated. The previosu version did not include the minor exotopologue - as it turned out.
 - 12.09.2025: Provisional line lists Dozen for isotopologues of CO2 have been generated and uploaded. The manuscript is been submitted to MNRAS. Theye should be treated with caution.
