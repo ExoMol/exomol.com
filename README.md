@@ -2,6 +2,10 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 15.11.2025:  lifetimes were added to 12C2-1H2__aCeTY.states.bz2, 12C-13C__8states.states.bz2, 9Be-1H__Darby-Lewis.states, 9Be-2H__Darby-Lewis.states.bz2, 9Be-3H__Darby-Lewis.states.bz2
+- 15.11.2025: 27Al-2H__AloHa.states.bz2 file,
+- 15.11.2025: 27Al-37Cl__YNAT.states file, lifetimes added. 
+- 15.11.2025: 27Al-35Cl__YNAT.states file, lifetimes added. 
 - 12.10.2025: Two combined opacity datasets for CH3Cl have been uploaded, combining the 35th and 37th isotopologues at the natural abundance. The the OYT line list for 35CH3Cl. 
 - 12.10.2025: The petitRADTRANS opacity file for CH3Cl (OYT) has been updated 12C-1H3-35Cl__OYT.R1000_0.3-50mu.ktable.petitRADTRANS.h5. The previous version was broken. 
 - 21.09.2025: 14N-15N-16O__TYM__17000-18000.trans.bz2 file was missing. It is now available on exomol.com. 
