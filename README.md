@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 30.12.2025: CoYuTe Line lists for (14N)(1H)2(2H) and (14N)(2H)2(1H) have been uploaded to exomol.com prior the publication. 
 - 15.11.2025:  lifetimes were added to 12C2-1H2__aCeTY.states.bz2, 12C-13C__8states.states.bz2, 9Be-1H__Darby-Lewis.states, 9Be-2H__Darby-Lewis.states.bz2, 9Be-3H__Darby-Lewis.states.bz2
 - 15.11.2025: 27Al-2H__AloHa.states.bz2 file,
 - 15.11.2025: 27Al-37Cl__YNAT.states file, lifetimes added. 
