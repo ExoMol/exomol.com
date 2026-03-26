@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 26.03.2026: 12C-16O2__UCL-4000.states.bz2 updated with a version with ML AFGL QNs.
 - 20.03.2026: In 27Al-18O__ATP.states, 27Al-17O__ATP.states and 26Al-16O__ATP.states, nan-s energies, unc have been corrected. 
 - 04.01.2026: In 27Al-35Cl__YNAT.states and 27Al-37Cl__YNAT.states.bz2 "Inf"s were replaced with "NaN" except for v=0,J=1,X.
 - 30.12.2025: CoYuTe Line lists for (14N)(1H)2(2H) and (14N)(2H)2(1H) have been uploaded to exomol.com prior the publication. 
