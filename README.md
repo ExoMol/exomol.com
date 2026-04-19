@@ -2,6 +2,9 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 16.04.206: A set of photo-dissociation cross section of NH photo-2kNigHt is now available.  
+- 16.04.2026: A new line list for NH (4 isotopologues) 2kNigHt is now awailable along with photo-absorption and cross sections
+- 22.03.2026: A preliminary line list for 29KH Khan has been uploaded. 
 - 26.03.2026: 12C-16O2__UCL-4000.states.bz2 updated with a version with ML AFGL QNs.
 - 20.03.2026: In 27Al-18O__ATP.states, 27Al-17O__ATP.states and 26Al-16O__ATP.states, nan-s energies, unc have been corrected. 
 - 04.01.2026: In 27Al-35Cl__YNAT.states and 27Al-37Cl__YNAT.states.bz2 "Inf"s were replaced with "NaN" except for v=0,J=1,X.
