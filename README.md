@@ -2,7 +2,8 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
-- 16.04.206: A set of photo-dissociation cross section of NH photo-2kNigHt is now available.  
+- 06.05.2026: Gomez HITRAN line list for S2 is added.
+- 16.04.2026: A set of photo-dissociation cross section of NH photo-2kNigHt is now available.  
 - 16.04.2026: A new line list for NH (4 isotopologues) 2kNigHt is now awailable along with photo-absorption and cross sections
 - 22.03.2026: A preliminary line list for 29KH Khan has been uploaded. 
 - 26.03.2026: 12C-16O2__UCL-4000.states.bz2 updated with a version with ML AFGL QNs.
