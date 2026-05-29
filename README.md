@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 29.05.2026: POKAZATEL 1H2-16O: a link _v1.states.bg2 removed from the line list section, renamed to _20180425.states.bz2 and moved to Other States  section. 
 - 06.05.2026: Gomez HITRAN line list for S2 is added.
 - 16.04.2026: A set of photo-dissociation cross section of NH photo-2kNigHt is now available.  
 - 16.04.2026: A new line list for NH (4 isotopologues) 2kNigHt is now awailable along with photo-absorption and cross sections
