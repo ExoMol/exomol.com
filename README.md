@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 30:05:2026: New line list 4th for 12C16O (the 4th positive band and the X-X band) has been uploaded to exomol. 
 - 29.05.2026: POKAZATEL 1H2-16O: a link _v1.states.bg2 removed from the line list section, renamed to _20180425.states.bz2 and moved to Other States  section. 
 - 06.05.2026: Gomez HITRAN line list for S2 is added.
 - 16.04.2026: A set of photo-dissociation cross section of NH photo-2kNigHt is now available.  
