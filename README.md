@@ -2,6 +2,8 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 07.06.2026: A new line list for 45Sc-16O LLB by Lavy, Lievin and Bernath, ApJ (2026) has been uploaded as recommended. 
+- 07.06.2026: KTPSYT-iso line list (X,A,B) for three minor isotopologues of CN has been uploaded to exomol.com. This is an unpublisheda prelimenary version. 
 - 04.06.2026: Khan line list for KH - opacities are now available. 
 - 30:05:2026: New line list 4th for 12C16O (the 4th positive band and the X-X band) has been uploaded to exomol. 
 - 29.05.2026: POKAZATEL 1H2-16O: a link _v1.states.bg2 removed from the line list section, renamed to _20180425.states.bz2 and moved to Other States  section. 
