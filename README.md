@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 03.07.2026: The https://exomol.com/db/N2/14N2/WCCRMT/14N2__WCCRMT__20190916.states.bz2 was found to be broken. It is working now. 
 - 29.06.2026: The link https://www.exomol.com/db/N2/14N2/WCCRMT/14N2__WCCRMT__ERJ.trans.bz2 was found to be broken. It is working now. 
 - 07.06.2026: A new line list for 45Sc-16O LLB by Lavy, Lievin and Bernath, ApJ (2026) has been uploaded as recommended. 
 - 07.06.2026: KTPSYT-iso line list (X,A,B) for three minor isotopologues of CN has been uploaded to exomol.com. This is an unpublisheda prelimenary version. 
