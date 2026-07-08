@@ -2,6 +2,8 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 08.07.2026: For the CoYuTe-NH2D line list, the nuclear degeneracy factors were corrected to 36(A)/18(B) and the degenereacy factors (column 4) were re-scaled by 3/2.
+  The partition funciton CoYuTe-NH2D was recomputed using the new scaling, i.e. by multiplying it with 3/2.
 - 03.07.2026: The https://exomol.com/db/N2/14N2/WCCRMT/14N2__WCCRMT__20190916.states.bz2 was found to be broken. It is working now. 
 - 29.06.2026: The link https://www.exomol.com/db/N2/14N2/WCCRMT/14N2__WCCRMT__ERJ.trans.bz2 was found to be broken. It is working now. 
 - 07.06.2026: A new line list for 45Sc-16O LLB by Lavy, Lievin and Bernath, ApJ (2026) has been uploaded as recommended. 
