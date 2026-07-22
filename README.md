@@ -2,6 +2,8 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 23.07.2026: Khan opacities for isotopologues of KH has been uploaded to www.exomol.com.
+- 23.07.2026: Khan opacities for 39KH have been corrected and updated. 
 - 08.07.2026: For the CoYuTe-NH2D line list, the nuclear degeneracy factors were corrected to 36(A)/18(B) and the degenereacy factors (column 4) were re-scaled by 3/2.
   The partition funciton CoYuTe-NH2D was recomputed using the new scaling, i.e. by multiplying it with 3/2.
 - 03.07.2026: The https://exomol.com/db/N2/14N2/WCCRMT/14N2__WCCRMT__20190916.states.bz2 was found to be broken. It is working now. 
