@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 24.07.2026: SWYT opacities of O2 (M1/E2) are now available for all isotopologues. These data replace the prelimenary (less accurate) SYT opacities. 
 - 23.07.2026: Khan opacities for isotopologues of KH has been uploaded to www.exomol.com.
 - 23.07.2026: Khan opacities for 39KH have been corrected and updated. 
 - 08.07.2026: For the CoYuTe-NH2D line list, the nuclear degeneracy factors were corrected to 36(A)/18(B) and the degenereacy factors (column 4) were re-scaled by 3/2.
