@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 12.09.2026: TRINITY line lists for N2 are available (provisional before the publicaiton), ground elecotronic state, quadruple, 3 isotopologues.
 - 24.07.2026: SWYT opacities of O2 (M1/E2) are now available for all isotopologues. These data replace the prelimenary (less accurate) SYT opacities. 
 - 23.07.2026: Khan opacities for isotopologues of KH has been uploaded to www.exomol.com.
 - 23.07.2026: Khan opacities for 39KH have been corrected and updated. 
