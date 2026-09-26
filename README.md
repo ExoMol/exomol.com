@@ -2,6 +2,7 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 26.09.2026: A new rovibronic line list for CO+ (12-16), three elecotronic states has been computed and now available.  
 - 14.09.2026: VoTe19 line list for radiactive H2O-19 is now available. 
 - 12.09.2026: TRINITY line lists for N2 are available (provisional before the publicaiton), ground elecotronic state, quadruple, 3 isotopologues.
 - 24.07.2026: SWYT opacities of O2 (M1/E2) are now available for all isotopologues. These data replace the prelimenary (less accurate) SYT opacities. 
